@@ -1,0 +1,68 @@
+===================================
+         Graph Input Setup         
+===================================
+Enter the number of nodes: Enter the number of edges (vertices): 
+Creating 50 nodes...
+
+Nodes created successfully!
+Now, enter the edges (connections) between nodes:
+Format: <Start_Node> <End_Node>
+Example: 1 2 (indicating a link from Node 1 to Node 2)
+-----------------------------------
+Edge 1: Edge 2: Edge 3: Edge 4: Edge 5: Edge 6: Edge 7: Edge 8: Edge 9: Edge 10: Edge 11: Edge 12: Edge 13: Edge 14: Edge 15: Edge 16: Edge 17: Edge 18: Edge 19: Edge 20: Edge 21: Edge 22: Edge 23: Edge 24: Edge 25: Edge 26: Edge 27: Edge 28: Edge 29: Edge 30: Edge 31: Edge 32: Edge 33: Edge 34: Edge 35: Edge 36: Edge 37: Edge 38: Edge 39: Edge 40: Edge 41: Edge 42: Edge 43: Edge 44: Edge 45: Edge 46: Edge 47: Edge 48: Edge 49: Edge 50: Edge 51: Edge 52: Edge 53: Edge 54: Edge 55: Edge 56: Edge 57: Edge 58: Edge 59: Edge 60: Edge 61: Edge 62: Edge 63: Edge 64: Edge 65: Edge 66: Edge 67: Edge 68: Edge 69: Edge 70: Edge 71: Edge 72: Edge 73: Edge 74: Edge 75: Edge 76: Edge 77: Edge 78: Edge 79: Edge 80: Edge 81: Edge 82: Edge 83: Edge 84: Edge 85: Edge 86: Edge 87: Edge 88: Edge 89: Edge 90: Edge 91: Edge 92: Edge 93: Edge 94: Edge 95: Edge 96: Edge 97: Edge 98: Edge 99: Edge 100: 
+Graph successfully built!
+
+===================================
+            Page Rank              
+===================================
+Node 1: 0.021
+Node 2: 0.019
+Node 3: 0.020
+Node 4: 0.020
+Node 5: 0.020
+Node 6: 0.020
+Node 7: 0.020
+Node 8: 0.020
+Node 9: 0.020
+Node 10: 0.020
+Node 11: 0.020
+Node 12: 0.020
+Node 13: 0.020
+Node 14: 0.020
+Node 15: 0.020
+Node 16: 0.020
+Node 17: 0.020
+Node 18: 0.020
+Node 19: 0.020
+Node 20: 0.020
+Node 21: 0.020
+Node 22: 0.020
+Node 23: 0.020
+Node 24: 0.020
+Node 25: 0.020
+Node 26: 0.020
+Node 27: 0.020
+Node 28: 0.020
+Node 29: 0.020
+Node 30: 0.020
+Node 31: 0.020
+Node 32: 0.020
+Node 33: 0.020
+Node 34: 0.020
+Node 35: 0.020
+Node 36: 0.020
+Node 37: 0.020
+Node 38: 0.020
+Node 39: 0.020
+Node 40: 0.020
+Node 41: 0.020
+Node 42: 0.020
+Node 43: 0.020
+Node 44: 0.020
+Node 45: 0.020
+Node 46: 0.020
+Node 47: 0.020
+Node 48: 0.020
+Node 49: 0.017
+Node 50: 0.022
+===================================

@@ -1,0 +1,23 @@
+===================================
+         Graph Input Setup         
+===================================
+Enter the number of nodes: Enter the number of edges (vertices): 
+Creating 5 nodes...
+
+Nodes created successfully!
+Now, enter the edges (connections) between nodes:
+Format: <Start_Node> <End_Node>
+Example: 1 2 (indicating a link from Node 1 to Node 2)
+-----------------------------------
+Edge 1: Edge 2: Edge 3: Edge 4: Edge 5: Edge 6: 
+Graph successfully built!
+
+===================================
+            Page Rank              
+===================================
+Node 1: 0.225
+Node 2: 0.221
+Node 3: 0.218
+Node 4: 0.215
+Node 5: 0.121
+===================================
